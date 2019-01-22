@@ -1,1 +1,2 @@
 # my_province_predict
+在Python下的基于TensorFlow的车牌省份二值化图片识别，训练好的模型保存在train-saver中，可直接调用；结果在计算机辅助计算作业中。
